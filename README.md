@@ -1,7 +1,7 @@
 ## My Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon)](https://git.io/streak-stats)
 
-## :Contact Contact Me
+## :Call: Contact Me
 
 ## :computer: Technologies that I know
 <!--
