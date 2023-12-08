@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon)](https://git.io/streak-stats)
 
-## :Call: Contact Me
+## :## :mailbox:Contact Me
 
 ## :computer: Technologies that I know
 <!--
