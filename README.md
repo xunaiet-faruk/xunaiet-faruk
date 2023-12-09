@@ -21,7 +21,7 @@
 ## Latest Projects
 ## E-commerce webside
 <a href="https://assinment-10-4551c.web.app" > E commerce
-</a>
+</a><br/>
 It is e commerce website 2.in home button click any customer can shop from 6 ecommerce site Amazon, walmart, Alibaba, ebay, target,best buy
 
 In each site there is 4 card where different brand product show with price rating and types
@@ -30,6 +30,21 @@ In each site there is 4 cards showing with each site slider with advertisement a
 
 Its a authenticate website with proper authorization with customer proper registration
 
+<br/>
+<a href="https://assinmet-11.web.app/myassinment">
+Online groupe study
+</a>
+<br/>
+
+View All Assignments: Any registered user can view details of all assignments created by other users in the study group. User Registration: Upon registration, users gain access to assignment details, allowing them to participate in the group study activities. Assignment Management:
+
+2.Update Assignments: Users can update assignments they have created, allowing them to edit assignment details such as title, description, and deadline. Add New Assignments: Users can add new assignments to the platform, fostering collaborative learning within the study group. Assignment Deletion Restriction: Users can't delete assignments created by others, ensuring data integrity and preventing unauthorized removal of content. Assignment Submission and Admin Marking:
+
+3.User Assignment Submission: Users can submit assignments they have taken, providing their responses and work. Admin Marking: Submitted assignment data is collected, allowing the admin to review and mark assignments. Admin marks can be categorized as complete or pending based on the quality of the submission. Status Tracking:
+
+4.Complete and Pending Status: Admin-marked assignments are categorized as complete or pending. Users can see the status of their assignments, indicating whether they have been marked by the admin.
+
+5.These features create a functional and user-friendly platform for online group study, allowing users to collaborate, share knowledge, and track their assignments effectivel
 
 ## Technologies that I know
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,vue,github,firebase,node.js,css,mongodb)](https://skillicons.dev)
