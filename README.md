@@ -8,7 +8,6 @@
 ## Technologies that I know
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,vue,github,firebase,node.js,css,mongodb)](https://skillicons.dev)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={xunaiet-faruk}&theme={nord_dark}
 
 
 ## Current overview
