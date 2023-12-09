@@ -14,8 +14,7 @@
 - 🌱I'm Always learning and staying updated with the latest tech trends..
 - 👯 I’m  Passionate about coding and collaborative development! ...
 - 🤔 I’m trying to advance learn technology. And to improve my skills...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...I can speak 2 languages hindi,english 
 <!--
 **xunaiet-faruk/xunaiet-faruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
