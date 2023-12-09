@@ -10,7 +10,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon)](https://git.io/streak-stats)
 
 
-## :contact: Current Stats
+## Contact me
 
 
 <p align="left">
@@ -67,7 +67,7 @@ It is a project which registered by me as admin with proper authentication
 
 
 
-## Technologies that I know
+## 💻 Technologies that I know
 
 
 
