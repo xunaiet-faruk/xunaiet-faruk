@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,vue,github,firebase,node.js,css,mongodb)](https://skillicons.dev)
 
 
-## :Skils:Current overview
+## Current overview
 <!--
 **xunaiet-faruk/xunaiet-faruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
