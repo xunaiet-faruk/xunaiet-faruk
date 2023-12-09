@@ -14,11 +14,13 @@
 - 🌱I'm Always learning and staying updated with the latest tech trends..
 - 👯 I’m  Passionate about coding and collaborative development! ...
 - 🤔 I’m trying to advance learn technology. And to improve my skills...
-- ⚡ Fun fact: ...I can speak 2 languages hindi,english 
-<!--
+- ⚡ Fun fact: ...I can speak 2 languages hindi,english
 
 ## Most Uses Language
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+<!--
+
+
 **xunaiet-faruk/xunaiet-faruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
