@@ -48,6 +48,7 @@ View All Assignments: Any registered user can view details of all assignments cr
 
 <br/>
 <a href="https://wedding-related-projeact.web.app">Wedding Project</a>
+<br/>
 It is a event mangament project where it work as a wedding agencey that work wedding management system
 
 When any customer click home button with proper login then it depicsts 6 cards where he will see the wedding related activites in wedding ceremony such as decoration , culinary, photography, special momment , floral reception , etc
