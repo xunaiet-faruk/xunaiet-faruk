@@ -6,7 +6,8 @@
 
 
 ## :computer: Technologies that I know
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,nodejs,react,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,githube)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,firebase)](https://skillicons.dev)
 <!--
 **xunaiet-faruk/xunaiet-faruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
