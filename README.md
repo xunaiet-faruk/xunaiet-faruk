@@ -67,7 +67,7 @@ It is a project which registered by me as admin with proper authentication
 
 
 
-## 💻 Technologies that I know
+## :chart_with_upwards_trend: Technologies that I know
 
 
 
