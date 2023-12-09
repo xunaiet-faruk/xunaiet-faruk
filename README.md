@@ -1,3 +1,5 @@
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 <img src ="https://i.ibb.co/kKC2ynJ/image.png" />
 
 
@@ -30,7 +32,7 @@
 
 ## Most Uses Language
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xunaiet-faruk/langs)](https://githubtrends.io)
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 
 
