@@ -5,12 +5,12 @@
 
 
 
-## 🖥️: Current Stats
+## :chart_with_upwards_trend: Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon)](https://git.io/streak-stats)
 
 
-## Contact me
+## :calling: Contact me
 
 
 <p align="left">
