@@ -1,5 +1,5 @@
 <img src ="https://i.ibb.co/kKC2ynJ/image.png" />
-<p>Xunaiet faruk</p>
+<p align="top">Xunaiet faruk</p>
 
 
 
