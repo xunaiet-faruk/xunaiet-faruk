@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src ="https://i.ibb.co/kKC2ynJ/image.png" />
+<img src ="[https://i.ibb.co/kKC2ynJ/image.png](https://i.ibb.co/B4CT47h/image.png)" />
 
 
 
