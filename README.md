@@ -76,14 +76,14 @@ It is a project which registered by me as admin with proper authentication
 
 
 
-## :mens: Current overview
+## :man_office_worker: Current overview
 - 🔭 I’m working with  -Programing ...
 - 🌱I'm Always learning and staying updated with the latest tech trends..
 - 👯 I’m  Passionate about coding and collaborative development! ...
 - 🤔 I’m trying to advance learn technology. And to improve my skills...
 - ⚡ Fun fact: ...I can speak 2 languages hindi,english
 
-## Most Uses Language
+## :black_nib: Most Uses Language
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xunaiet-faruk/langs)](https://githubtrends.io)
 
 
