@@ -17,7 +17,7 @@
 - ⚡ Fun fact: ...I can speak 2 languages hindi,english
 
 ## Most Uses Language
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xunaiet-faruk/langs)](https://githubtrends.io)
 <!--
 
 
