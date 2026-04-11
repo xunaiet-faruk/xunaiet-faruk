@@ -10,13 +10,30 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon)](https://git.io/streak-stats)
 
 
-## :calling: Contact me
-
+## 📞 Contact me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaiet faruk" height="30" width="40" /></a>
-<a href="https://fb.com/xunaiet faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xunaiet faruk" height="30" width="40" /></a>
-  <a href="https://instagram.com/xunaiet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xunaiet" height="30" width="40" /></a>
+
+<a href="mailto:xunaiet28@gmail.com">
+  <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="40" />
+</a>
+
+<a href="https://wa.me/8801882239828">
+  <img align="center" src="https://img.icons8.com/fluency/48/whatsapp.png" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://fb.com/xunaiet faruk" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/xunaiet" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
 </p>
 
 
@@ -69,14 +86,9 @@ React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, Axios
 
 
 
-## :computer: Technologies that I know
+## 💻 Technologies that I know
 
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,js,react,vue,github,firebase,node.js,css,mongodb)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=html,js,react,nextjs,vue,github,firebase,nodejs,css,mongodb)](https://skillicons.dev)
 
 ## :man_office_worker: Current overview
 - 🔭 I’m working with  -Programing ...
