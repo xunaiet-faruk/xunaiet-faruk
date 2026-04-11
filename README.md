@@ -25,45 +25,47 @@
 
 ## :arrow_down: Latest Projects
 
-## E-commerce webside
-<a href="https://assinment-10-4551c.web.app" > E commerce
+## Blood Donation web (Full Stack)
+<a href="https://blood-donation-web-2b177.web.app" > Blood Donation
 </a><br/>
-It is e commerce website in home button click any customer can shop from 6 ecommerce site Amazon, walmart, Alibaba, ebay, target,best buy
+A modern blood donation platform that connects  donors, volunteers, and Admins to streamline the donation process efficiently.
 
-In each site there is 4 card where different brand product show with price rating and types
+🔹 Key Features:
 
-In each site there is 4 cards showing with each site slider with advertisement and each card details shows it features with full discription and data base will be update with update button if any change need to.
+Role-based authentication (Admin, Donor, Volunteer)
+Real-time blood donation request management
+Donor search by blood group and location
+Admin dashboard with user management and analytics
+Volunteer task handling with live status updates
+Responsive UI with smooth animations
 
-Its a authenticate website with proper authorization with customer proper registration
+🔹 Tech Stack:
+React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, Axios, Framer Motion
 
 <br/>
-<a href="https://assinmet-11.web.app/myassinment">
-Online groupe study
+<a href="https://job-portal-aa5bd.web.app">
+Job Portal Web
 </a>
 <br/>
 
 View All Assignments: Any registered user can view details of all assignments created by other users in the study group. User Registration: Upon registration, users gain access to assignment details, allowing them to participate in the group study activities. Assignment Management:
 
-.Update Assignments: Users can update assignments they have created, allowing them to edit assignment details such as title, description, and deadline. Add New Assignments: Users can add new assignments to the platform, fostering collaborative learning within the study group. Assignment Deletion Restriction: Users can't delete assignments created by others, ensuring data integrity and preventing unauthorized removal of content. Assignment Submission and Admin Marking:
+A dynamic job marketplace platform where employers can post jobs and users can bid with custom proposals and deadlines.
 
-.User Assignment Submission: Users can submit assignments they have taken, providing their responses and work. Admin Marking: Submitted assignment data is collected, allowing the admin to review and mark assignments. Admin marks can be categorized as complete or pending based on the quality of the submission. Status Tracking:
+🔹 Key Features:
 
-.Complete and Pending Status: Admin-marked assignments are categorized as complete or pending. Users can see the status of their assignments, indicating whether they have been marked by the admin.
+Secure authentication (Email/Password & Google Sign-in)
+Job posting, updating, and deletion with categories
+Bidding system with custom price and deadline
+Employer controls to accept or reject bids
+User dashboard for managing jobs and tracking bid status
+Protected routes for authorized access
 
-.These features create a functional and user-friendly platform for online group study, allowing users to collaborate, share knowledge, and track their assignments effectivel
+🔹 Tech Stack:
+React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, Axios
 
 <br/>
-<a href="https://wedding-related-projeact.web.app">Wedding Project</a>
-<br/>
-It is a event mangament project where it work as a wedding agencey that work wedding management system
 
-When any customer click home button with proper login then it depicsts 6 cards where he will see the wedding related activites in wedding ceremony such as decoration , culinary, photography, special momment , floral reception , etc
-
-When the customer click special button it will offer special package for special occasion
-
-When any customer click procedure he will chose the life partener according religion ,caste ,international
-
-It is a project which registered by me as admin with proper authentication
 
 
 
