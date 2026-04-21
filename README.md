@@ -11,28 +11,29 @@
 
 ## 📞 Contact me
 
-<p align="left">
-  <a href="mailto:xunaiet28@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
-  </a>
+<div align="left" style="display:flex; gap:12px; flex-wrap:nowrap;">
 
-  <a href="https://wa.me/8801882239828" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" />
-  </a>
+<a href="mailto:xunaiet28@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+</a>
 
-  <a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
-  </a>
+<a href="https://wa.me/8801882239828">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" />
+</a>
 
-  <a href="https://facebook.com/xunaiet.faruk" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" />
-  </a>
+<a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
+</a>
 
-  <a href="https://instagram.com/xunaiet" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" />
-  </a>
-</p>
+<a href="https://facebook.com/xunaiet.faruk">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" />
+</a>
 
+<a href="https://instagram.com/xunaiet">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" />
+</a>
+
+</div>
 
 ## :arrow_down: Latest Projects
 
