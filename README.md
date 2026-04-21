@@ -15,27 +15,26 @@
 <p align="left">
 
 <a href="mailto:xunaiet28@gmail.com">
-  <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="40" />
 </a>
 
-<a href="https://wa.me/8801882239828">
-  <img align="center" src="https://img.icons8.com/fluency/48/whatsapp.png" height="30" width="40" />
+<a href="https://wa.me/8801882239828" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="30" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/linkedin.png" height="30" width="40" />
 </a>
 
-<a href="https://fb.com/xunaiet faruk" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<a href="https://facebook.com/xunaiet.faruk" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/facebook.png" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/xunaiet" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://instagram.com/xunaiet" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/instagram-new.png" height="30" width="40" />
 </a>
 
 </p>
-
 
 
 
