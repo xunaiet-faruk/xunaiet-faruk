@@ -9,34 +9,29 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon)](https://git.io/streak-stats)
 
-
 ## 📞 Contact me
 
 <p align="left">
+  <a href="mailto:xunaiet28@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+  </a>
 
-<a href="mailto:xunaiet28@gmail.com">
-  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="40" />
-</a>
+  <a href="https://wa.me/8801882239828" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" />
+  </a>
 
-<a href="https://wa.me/8801882239828" target="_blank">
-  <img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
+  </a>
 
-<a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3" target="_blank">
-  <img align="center" src="https://img.icons8.com/color/48/linkedin.png" height="30" width="40" />
-</a>
+  <a href="https://facebook.com/xunaiet.faruk" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" />
+  </a>
 
-<a href="https://facebook.com/xunaiet.faruk" target="_blank">
-  <img align="center" src="https://img.icons8.com/color/48/facebook.png" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/xunaiet" target="_blank">
-  <img align="center" src="https://img.icons8.com/color/48/instagram-new.png" height="30" width="40" />
-</a>
-
+  <a href="https://instagram.com/xunaiet" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" />
+  </a>
 </p>
-
-
 
 
 ## :arrow_down: Latest Projects
