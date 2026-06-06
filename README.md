@@ -5,6 +5,12 @@
   <img src="https://i.ibb.co/RTwzXN0/Xunaiet-Faruk.png" alt="Junaiet Faruk Banner" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://junaiet-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ### 💫 About Me
@@ -33,7 +39,7 @@
 
 ### 🚀 Featured Projects
 
-#### 📦 1. Parcel Management Website | [Live Link](https://your-parcel-live-link.com)
+#### 📦 1. Parcel Management Website | [Live Link](https://parcel-managment-web.vercel.app)
 *A smart parcel platform featuring real-time tracking, automated workflows, and advanced analytics dashboards.*
 - **Admin Dashboard:** Central dashboard with live analytics, intelligent delivery assignments, user role controls, and invoice generation (print/export).
 - **Rider Dashboard:** Handles end-to-end delivery workflows, tracking earnings, and order history.
@@ -45,21 +51,22 @@
 - **Features:** Multi-role dashboard (Admin, Volunteer, Donor), searchable donor directory by blood group/location, and smooth responsive animations.
 - **Tech Stack:** React.js, MongoDB, Express.js, Node.js, Tailwind CSS, Axios, Firebase, Framer Motion
 
-#### 🍔 3. Restaurant Management System | [Live Link](https://your-restaurant-live-link.com)
+#### 🍔 3. Restaurant Management System | [Live Link](https://restorant-web.web.app)
 *A premium restaurant ecosystem with advanced analytics, interactive menus, and dynamic payment gateways.*
 - **Features:** Admin dashboard with 4 interactive charts, food CRUD operations with server-side pagination, and secure checkout using **SSL Commerz** (Subtotal, Delivery, Discount, VAT).
 - **Tech Stack:** React.js, MongoDB, Express.js, Node.js, Tailwind CSS, Axios, Firebase, Framer Motion
 
 ---
 
-### :chart_with_upwards_trend: GitHub Stats & Metrics
+### :chart_with_upwards_trend: GitHub Stats & Productivity Charts
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xunaiet-faruk&show_icons=true&theme=neon&count_private=true" alt="Junaiet's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunaiet-faruk&layout=compact&theme=neon" alt="Top Languages Chart" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://api.githubtrends.io/user/svg/xunaiet-faruk/langs" alt="GitHub Trends" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
@@ -73,7 +80,7 @@
   <a href="https://wa.me/8801882239828">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3">
+  <a href="https://www.linkedin.com/in/junaiet-faruk">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/xunaiet.faruk">
