@@ -1,116 +1,86 @@
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Junaiet Faruk</h1>
+<h3 align="center">A Passionate Full Stack MERN Developer from Bangladesh 🇧🇩</h3>
 
-<img src ="https://i.ibb.co/RTwzXN0/Xunaiet-Faruk.png" />
+<p align="center">
+  <img src="https://i.ibb.co/RTwzXN0/Xunaiet-Faruk.png" alt="Junaiet Faruk Banner" width="100%" />
+</p>
 
+---
 
+### 💫 About Me
 
+- 🔭 **Currently focusing on:** Building scalable, secure, and production-ready web applications using Next.js & TypeScript.
+- 🌱 **Learning & Improving:** Deep diving into advanced system design, API optimization, and modern backend architectures.
+- 👯 **Collaboration:** Open to collaborating on open-source projects or interesting remote/full-time developer roles.
+- 🤔 **Goal:** To convert complex problems into clean, efficient, and maintainable code.
+- ⚡ **Fun Fact:** I can fluently communicate in 3 languages (Bangla, English, Hindi) and I thrive under challenging problem-solving environments.
 
-## :chart_with_upwards_trend: Current Stats
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon)](https://git.io/streak-stats)
+### 🛠️ Tech Stack & Skills
 
-## 📞 Contact me
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,vscode" />
+  </a>
+</p>
 
-<div align="left" style="display:flex; gap:12px; flex-wrap:nowrap;">
+- **Front-End:** JavaScript (ES6+), React.js, Next.js, TypeScript, Tailwind CSS, HTML5, Framer Motion
+- **Back-End & Database:** Node.js, Express.js, MongoDB
+- **Tools & Authentication:** Git & GitHub, JWT (JSON Web Token), Firebase, SSL Commerz, Axios, Tanstack Query
 
-<a href="mailto:xunaiet28@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
-</a>
+---
 
-<a href="https://wa.me/8801882239828">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" />
-</a>
+### 🚀 Featured Projects
 
-<a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
-</a>
+#### 📦 1. Parcel Management Website | [Live Link](https://your-parcel-live-link.com)
+*A smart parcel platform featuring real-time tracking, automated workflows, and advanced analytics dashboards.*
+- **Admin Dashboard:** Central dashboard with live analytics, intelligent delivery assignments, user role controls, and invoice generation (print/export).
+- **Rider Dashboard:** Handles end-to-end delivery workflows, tracking earnings, and order history.
+- **Customer Dashboard:** Seamless parcel creation, tracking, detailed payment history, and support system.
+- **Tech Stack:** Next.js, MongoDB, Express.js, Node.js, Tanstack Query, Axios, Firebase, Framer Motion
 
-<a href="https://facebook.com/xunaiet.faruk">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" />
-</a>
+#### 🩸 2. Blood Donation Website | [Live Link](https://blood-donation-web-2b177.web.app)
+*Full-stack blood donation app with role-based access control, real-time requests, and donor search.*
+- **Features:** Multi-role dashboard (Admin, Volunteer, Donor), searchable donor directory by blood group/location, and smooth responsive animations.
+- **Tech Stack:** React.js, MongoDB, Express.js, Node.js, Tailwind CSS, Axios, Firebase, Framer Motion
 
-<a href="https://instagram.com/xunaiet">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" />
-</a>
+#### 🍔 3. Restaurant Management System | [Live Link](https://your-restaurant-live-link.com)
+*A premium restaurant ecosystem with advanced analytics, interactive menus, and dynamic payment gateways.*
+- **Features:** Admin dashboard with 4 interactive charts, food CRUD operations with server-side pagination, and secure checkout using **SSL Commerz** (Subtotal, Delivery, Discount, VAT).
+- **Tech Stack:** React.js, MongoDB, Express.js, Node.js, Tailwind CSS, Axios, Firebase, Framer Motion
 
+---
+
+### :chart_with_upwards_trend: GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xunaiet-faruk&theme=neon" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://api.githubtrends.io/user/svg/xunaiet-faruk/langs" alt="GitHub Trends" />
+</p>
+
+---
+
+### 📞 Connect with Me
+
+<div align="left" style="display:flex; gap:16px;">
+  <a href="mailto:xunaiet28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/8801882239828">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/junaiet-faruk-0451a72a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/xunaiet.faruk">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
 
-## :arrow_down: Latest Projects
+<br />
 
-## Blood Donation web (Full Stack)
-<a href="https://blood-donation-web-2b177.web.app" > Blood Donation
-</a><br/>
-A modern blood donation platform that connects  donors, volunteers, and Admins to streamline the donation process efficiently.
-
-🔹 Key Features:
-
-Role-based authentication (Admin, Donor, Volunteer)
-Real-time blood donation request management
-Donor search by blood group and location
-Admin dashboard with user management and analytics
-Volunteer task handling with live status updates
-Responsive UI with smooth animations
-
-🔹 Tech Stack:
-React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, Axios, Framer Motion
-
-<br/>
-<a href="https://job-portal-aa5bd.web.app">
-Job Portal Web
-</a>
-<br/>
-
-View All Assignments: Any registered user can view details of all assignments created by other users in the study group. User Registration: Upon registration, users gain access to assignment details, allowing them to participate in the group study activities. Assignment Management:
-
-A dynamic job marketplace platform where employers can post jobs and users can bid with custom proposals and deadlines.
-
-🔹 Key Features:
-
-Secure authentication (Email/Password & Google Sign-in)
-Job posting, updating, and deletion with categories
-Bidding system with custom price and deadline
-Employer controls to accept or reject bids
-User dashboard for managing jobs and tracking bid status
-Protected routes for authorized access
-
-🔹 Tech Stack:
-React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, Axios
-
-<br/>
-
-
-
-
-## 💻 Technologies that I know
-
-[![My Skills](https://skillicons.dev/icons?i=html,js,react,nextjs,vue,github,firebase,nodejs,css,mongodb)](https://skillicons.dev)
-
-## :man_office_worker: Current overview
-- 🔭 I’m working with  -Programing ...
-- 🌱I'm Always learning and staying updated with the latest tech trends..
-- 👯 I’m  Passionate about coding and collaborative development! ...
-- 🤔 I’m trying to advance learn technology. And to improve my skills...
-- ⚡ Fun fact: ...I can speak 2 languages hindi,english
-
-## :black_nib: Most Uses Language
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xunaiet-faruk/langs)](https://githubtrends.io)
-
-
-
-
-<!--
-
-
-**xunaiet-faruk/xunaiet-faruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">⭐️ From <b>Junaiet Faruk</b></p>
