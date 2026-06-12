@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack MERN Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/dQWGK1RP/Chat-GPT-Image-Jun-6-2026-06-34-00-PM.png" alt="Junaiet Faruk Banner" width="100%" />
+  <img src="https://i.ibb.co.com/QvXyJ6PH/Chat-GPT-Image-Jun-6-2026-06-34-00-PM-1.png" alt="Junaiet Faruk Banner" width="100%" />
 </p>
 
 <p align="center">
